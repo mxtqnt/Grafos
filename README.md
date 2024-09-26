@@ -12,13 +12,13 @@
 
   - [Roteiro do Trabalho](#roteiro-do-trabalho)
     - [Gerar Grafos](#gerar-grafos)
-    - [Matriz Adjacência](#matriz-adjacencia)
+    - [Matriz Adjacência](#matriz-adjacência)
     - [Matriz Custo](#matriz-custo)
     - [Algoritmo de Kruskal](#algoritmo-de-kruskal)
     - [Complexidade do Grafo](#complexidade-do-grafo)
     - [Desenho dos Grafos](#desenho-dos-grafos)
     - [Krukal em Redes de Computadores](#kruskal-em-redes-de-computadores)
-  - [Implementação](#implementacao)
+  - [Implementação](#implementação)
     - [Google Colab](#google-colab)
     - [Bibliotecas usadas](#bibliotecas-usadas)
   
