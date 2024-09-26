@@ -6,7 +6,7 @@
 - Adriel
 - Ana
 - Pedro
-- Luan
+- Luann
 
 ## Índice
 
